@@ -1,2 +1,2 @@
 # Langchains
-Simple AI text assistant using vector embeddingd
+Simple AI text assistant using vector embeddings
